@@ -1,0 +1,125 @@
+.ho {
+  position: fixed;
+  margin: 25px;
+  margin-top: 60px;
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  border: 1px solid;
+  z-index: 1;
+}
+.ho1 {
+  position: fixed;
+  margin: 25px;
+  width: 25px;
+  height: 50px;
+  background-color: rgb(20, 209, 51);
+  top: 180px;
+  left: 60px;
+  border: 1px solid;
+  z-index: 2;
+}
+.ho2 {
+  position: fixed;
+  margin: 25px;
+  width: 20px;
+  height: 20px;
+  background-color: indigo;
+  top: 170px;
+  left: 27px;
+  border: 1px solid;
+  z-index: 2;
+}
+.ho3 {
+  position: fixed;
+  width: 0;
+  height: 0;
+  border-bottom: 59px solid black;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  left: 34px;
+  z-index: 2;
+}
+.ro {
+  position: static;
+  margin: 25px;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(106, 16, 209);
+  border: 1px solid;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.ro1 {
+  position: static;
+  margin: 25px;
+  width: 25px;
+  height: 50px;
+  background-color: rgb(20, 209, 51);
+  top: 180px;
+  left: 60px;
+  border: 1px solid;
+  margin-left: 350px;
+  margin-top: -80px;
+}
+.ro2 {
+  position: static;
+  margin: 25px;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(211, 32, 32);
+  border: 1px solid;
+  margin-left: 314px;
+  margin-top: -80px;
+}
+.ro3 {
+  position: static;
+  width: 0;
+  height: 0;
+  border-bottom: 59px solid black;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  margin-left: 300px;
+  margin-top: -150px;
+}
+.lo {
+  position: sticky;
+  margin: 25px;
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  border: 1px solid;
+  left: 570px;
+  top: 190px;
+}
+.lo1 {
+  position: sticky;
+  margin: 25px;
+  width: 25px;
+  height: 50px;
+  background-color: rgb(20, 209, 51);
+  border: 1px solid;
+  left: 622px;
+  bottom: 448px;
+}
+.lo2 {
+  position: sticky;
+  margin: 25px;
+  width: 20px;
+  height: 20px;
+  background-color: indigo;
+  left: 585px;
+  border: 1px solid;
+  bottom: 487px;
+}
+.lo3 {
+  position: fixed;
+  width: 0;
+  height: 0;
+  border-bottom: 59px solid black;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  left: 34px;
+  left: 570px;
+  top: 130px;
+}
